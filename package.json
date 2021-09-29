@@ -1,0 +1,23 @@
+{
+  "name": "Testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikoescobal/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikoescobal/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/nikoescobal/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}
