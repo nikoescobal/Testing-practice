@@ -40,7 +40,7 @@ describe('Testing Practice', () => {
   });
 
   describe('Task 4: Capitalize First letter of string', () => {
-    test('Should return sum of numbers', () => {
+    test('Should capitalize first character of a string', () => {
       expect(capitalizeFirstChar('when')).toEqual('When')
       expect(capitalizeFirstChar('DESTRUCTURING')).toEqual('Destructuring')
     });
